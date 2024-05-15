@@ -18,7 +18,3 @@ Type your query and press `Enter` to make a search. Press `j` and `k` to navigat
 
 To specify a custom Torrent client, set the `TORRENT_PROGRAM` environment variable.
 
-### Donations
-
-
-Buy me an coffee in Ethereum at `0xF239e7C7b1C75EFF467EE4b74CEB4002E3d00BEE`.
