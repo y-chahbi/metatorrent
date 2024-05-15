@@ -20,4 +20,5 @@ To specify a custom Torrent client, set the `TORRENT_PROGRAM` environment variab
 
 ### Donations
 
+
 Buy me an coffee in Ethereum at `0xF239e7C7b1C75EFF467EE4b74CEB4002E3d00BEE`.
